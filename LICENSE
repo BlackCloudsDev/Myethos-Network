@@ -1,0 +1,11 @@
+Repository name:  Chimera.Network
+
+Description:
+Modern asynchronous networking layer for Conquer Online server development.
+
+Visibility:
+● Public
+
+☑ Add README
+.gitignore: VisualStudio
+License: MIT License
